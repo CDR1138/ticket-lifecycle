@@ -51,6 +51,6 @@ Ticket creation form used by the customer or end user
 The process from start to finish
 </p>
 <p>
-Finally closing the ticket, be sure to contact the user or customer who originally opened the ticket to let them know it has been resolved, 
+Finally closing the ticket, be sure to contact the user or customer who originally opened the ticket to let them know it has been resolved.
 </p>
 <br />
