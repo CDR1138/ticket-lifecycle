@@ -47,14 +47,18 @@ Ticket creation form used by the customer or end user
   Once you've corrected the issue, you're able to close out the ticket by listing it as resolved. If you are unable to correct the issue, you can escalate the ticket further. Remember to keep the customer or user apprised of the progress of the ticket as well. Good communication helps immensely with customer-facing relations.
 
   Tickets are submitted by the customer or end user. They will fill out a contact information form with their name and phone number, and select a topic from a drop down list. Note that they may select the wrong topic when submitting, but this is something that you can fix while triaging the ticket.
+  there will be an internal note section where you'll be able to add a note to the ticket as you make changes and updates. The notes will be for you and other agents to be able to see and interact with; customers will not be able to view them.
+  First, log in to the OS ticket agent panel. Then, you'll select an open ticket from the ticket queue in the dashboard. Once you've opened that newly created ticket, you'll see the following information: a ticket number, the user who submitted the ticket's name and contact information, the subject, a description of the issue, and the date and time of submission, as well as a priority level if it has already been assigned by another agent.
   
 </p>
 <br />
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9f6ea9d9-1de5-4ea6-99a2-9719d7aff01a" />
 <p>
 The process from start to finish
+
+ using OSticket you can assign SLA's to a ticket. This determines its severity, scaling from something unserious to a business critical outage that should be fixed as soon as possible.
 </p>
 <p>
-Finally closing the ticket, be sure to contact the user or customer who originally opened the ticket to let them know it has been resolved.
+Once the issue has been resolved, add a final response that summarizes what you did to arrive at the solution and how you implemented it. Ensure that you've already spoken to the end user who sent the ticket originally and inform them that the issue is resolved.
 </p>
 <br />
