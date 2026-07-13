@@ -28,7 +28,7 @@ A user submits a ticket to the helpdesk using osticket.
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img width="828" height="94" alt="image" src="https://github.com/user-attachments/assets/74e26e0a-d86a-40e1-a5e9-c16d97da0729" />
+<img width="761" height="376" alt="image" src="https://github.com/user-attachments/assets/d903a836-940a-4355-8a2e-3912dc2229a9" />
 </p>
 <p>
 
