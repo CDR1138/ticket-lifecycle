@@ -31,11 +31,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 End Users can submit tickets to the helpdesk, for example, a portion of the office network is down.
 A user submits a ticket to the helpdesk using osticket.
-  
-  -Ticket is created and usually automatically assigned by the SLA (service level agreement)
-  -Assigned to an agent to be investigated if necessary, the agent and the end user communicate
-  -Ticketed Issue is resolved or escalated
-  -Ticket is closed and the solution is logged for future issues 
+* Ticket is created and usually automatically assigned by the SLA (service level agreement)
+* Assigned to an agent to be investigated if necessary, the agent and the end user communicate
+* Ticketed Issue is resolved or escalated
+* Ticket is closed and the solution is logged for future issues 
 </p>
 <br />
 
