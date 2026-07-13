@@ -46,7 +46,7 @@ Ticket creation form used by the customer or end user
   Once you've corrected the issue, you're able to close out the ticket by listing it as resolved. If you are unable to correct the issue, you can escalate the ticket further. Remember to keep the customer or user apprised of the progress of the ticket as well. Good communication helps immensely with customer-facing relations.
 </p>
 <br />
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9f6ea9d9-1de5-4ea6-99a2-9719d7aff01a" />
 <p>
 
 </p>
