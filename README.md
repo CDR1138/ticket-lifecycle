@@ -31,7 +31,8 @@ A user submits a ticket to the helpdesk using osticket.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0bbb331a-f1b5-4a9f-bee6-8ee2fe971192" />
 </p>
 <p>
-
+Heres an example of the various tickets you can see in a day-to-day scenario
+  
 </p>
 <br />
 <img width="1391" height="790" alt="image" src="https://github.com/user-attachments/assets/7b139690-5e11-4810-b707-256289710c91" />
