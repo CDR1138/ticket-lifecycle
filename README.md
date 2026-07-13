@@ -28,15 +28,16 @@ A user submits a ticket to the helpdesk using osticket.
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img width="761" height="376" alt="image" src="https://github.com/user-attachments/assets/d903a836-940a-4355-8a2e-3912dc2229a9" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0bbb331a-f1b5-4a9f-bee6-8ee2fe971192" />
 </p>
 <p>
 
 </p>
 <br />
+<img width="1391" height="790" alt="image" src="https://github.com/user-attachments/assets/7b139690-5e11-4810-b707-256289710c91" />
 
 <p>
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0bbb331a-f1b5-4a9f-bee6-8ee2fe971192" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
