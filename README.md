@@ -48,9 +48,9 @@ Ticket creation form used by the customer or end user
 <br />
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9f6ea9d9-1de5-4ea6-99a2-9719d7aff01a" />
 <p>
-
+The process from start to finish
 </p>
 <p>
-Finally closing the ticket
+Finally closing the ticket, be sure to contact the user or customer who originally opened the ticket to let them know it has been resolved, 
 </p>
 <br />
