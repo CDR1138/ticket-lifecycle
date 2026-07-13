@@ -42,6 +42,8 @@ Heres an example of the various tickets you can see in a day-to-day scenario
 </p>
 <p>
 Ticket creation form used by the customer or end user
+  This is the ticket as described by the user. With this, you should have enough information on the issue. If not, please contact the person who issued the ticket and communicate with them to better understand the issue.
+  Once you've corrected the issue, you're able to close out the ticket by listing it as resolved. If you are unable to correct the issue, you can escalate the ticket further. Remember to keep the customer or user apprised of the progress of the ticket as well. Good communication helps immensely with customer-facing relations.
 </p>
 <br />
 
@@ -49,6 +51,6 @@ Ticket creation form used by the customer or end user
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
